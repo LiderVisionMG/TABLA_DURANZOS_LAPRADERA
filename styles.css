@@ -1,0 +1,56 @@
+/* COLOR DE FONDO */
+
+body {
+	background: #78ff91;
+
+}
+
+
+/* CONFIGURACION TITULO Y SUB TITULO */
+
+.contenedor {
+	background-color: #ff9a4d;
+	font: bold 200% sans-serif;
+	text-align: center;
+	color: black;
+	padding: 10px;
+	border: solid 2px black;
+}
+
+.sub-contenedor {
+	background-color: #ff9a4d;
+	font: bold 200% sans-serif;
+	text-align: center;
+	color: black;
+	padding: 2px;
+	border: solid 2px black;
+	margin-top: 10px;
+}
+
+/* TAMAÑO Y POSICION DE TABLA NUTRICIONAL - SELLOS SEGURIDAD*/
+
+.contenedor-2 {
+	display: flex;
+    justify-content: center;
+}
+
+.contenedor-2 img {
+	width: 596px;
+	height: 538px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+/* CONFIGURACION PIE DE PAGINA */
+
+.contenedor-3 {
+	background-color: #ff9a4d;
+	font: bold 200% sans-serif;
+	text-align: center;
+	color: black;
+	padding: 10px;
+	border: solid 2px black;
+}
