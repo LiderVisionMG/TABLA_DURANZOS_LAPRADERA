@@ -54,3 +54,45 @@ body {
 	padding: 10px;
 	border: solid 2px black;
 }
+
+@media screen and (max-width: 800px){
+
+	/* CONFIGURACION TITULO Y SUB TITULO */
+
+.contenedor {
+	background-color: #ff9a4d;
+	font: bold 100% sans-serif;
+	text-align: center;
+	color: black;
+	padding: 5px;
+	border: solid 1px black;
+}
+
+.sub-contenedor {
+	background-color: #ff9a4d;
+	font: bold 100% sans-serif;
+	text-align: center;
+	color: black;
+	padding: 1px;
+	border: solid 1px black;
+	margin-top: 5px;
+}
+
+	.contenedor-2 img {
+		display: block;
+		width: 200px;
+		height: 181px;
+		margin: 5px;
+	}
+
+	/* CONFIGURACION PIE DE PAGINA */
+
+.contenedor-3 {
+	background-color: #ff9a4d;
+	font: bold 100% sans-serif;
+	text-align: center;
+	color: black;
+	padding: 5px;
+	border: solid 1px black;
+}
+}
